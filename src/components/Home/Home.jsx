@@ -16,14 +16,14 @@ export default function Home() {
                             className="inline-flex text-white items-center px-6 py-3 font-medium  rounded-lg hover:opacity-75"
                             to="/"
                         >
-                            <img src="/src/assets/island.jpg" alt="island"  />
+                            <img src="/island.jpg" alt="island"  />
                             
                         </Link>
                     </div>
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="/src/assets/rural.jpg" alt="image1" />
+                    <img className="w-96" src="/rural.jpg" alt="image1" />
                    
                 </div>
                 <div>
@@ -32,7 +32,7 @@ export default function Home() {
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="/src/assets/rural.jpg" alt="image2" />
+                <img className="sm:w-96 w-48" src="/rural.jpg" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>

@@ -11,7 +11,7 @@ export default function Header() {
           <Link to="/" className="flex items-center">
             <img
               
-              src= '/src/assets/lion.png'
+              src= '/lion.png'
               className="mr-3 h-12"
               alt="Logo"
             />
